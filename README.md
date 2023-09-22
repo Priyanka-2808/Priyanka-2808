@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 Hello World 👋, I'm Priyanka
 👨‍💻 Currently working as Backend Developer<br>🌐 Programming Languages<br>🧠 Self Learning Enthusiast<br>🤝 Good Communication Skills<br>📬 singhpriyanka08122001@gmail.com
-
+[![](https://visitcount.itsvg.in/api?id=Priyanka-2808&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanka-singh-079ab91a7/) 
@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Priyanka-2808&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Priyanka-2808&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
