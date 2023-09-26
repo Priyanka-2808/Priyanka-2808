@@ -1,6 +1,6 @@
 # 💫 Hello World 👋, I'm Priyanka
 
-[![](https://visitcount.itsvg.in/api?id=Priyanka-2808&icon=0&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Priyanka-2808)
 
 👨‍💻 Currently working as Backend Developer<br>🌐 Programming Languages<br>🧠 Self Learning Enthusiast<br>🤝 Good Communication Skills<br>📬 singhpriyanka08122001@gmail.com
 
